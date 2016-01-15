@@ -1,0 +1,784 @@
+<site>
+ <posts>
+  <post caption="Post 2" categories="" dateModified="08/19/2015 17:48:04" name="post-2" status="published" tags="" title="Conse ctetur">
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;h3&gt;Introduction&lt;/h3&gt;&lt;div class="image-caption-wrapper" style="width: 60%; float: left"&gt;&lt;img src="./images/0ce4a.jpg" style="width: 100%; max-width:600px" alt="an image" class="art-lightbox"&gt;&lt;p&gt;Image by Flickr/cfourcalvin&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Lacus nascetur aliquam tortor faucibus eu in iaculis non quis maecenas sagittis posuere pede turpis metus.  Nam arcu sed quam proin ipsum. &lt;/p&gt;&lt;ol&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Egestas a nec eget sit. Nec consectetuer et aenean sagittis enim vehicula praesent integer commodo.&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;A suspendisse maecenas.  tristique nec elementum pellentesque non interdum ut vestibulum sed a mi. &lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Quis nunc lacinia enim. Feugiat ipsum eu ac dolor praesent vestibulum cubilia nec quisque a dui ut.&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Ac morbi nonummy lorem. Accumsan maecenas lacus a a ullamcorper nam convallis vel senectus ante in.&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Orci purus litora et.  Nibh semper sollicitudin vestibulum sagittis consectetuer donec ultricies. &lt;/a&gt;&lt;/li&gt;
+        
+        &lt;/ol&gt;&lt;p&gt;&lt;a href="#"&gt;More →&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;h3&gt;Introduction&lt;/h3&gt;&lt;div class="image-caption-wrapper" style="width: 60%; float: left"&gt;&lt;img src="0ce4a.jpg" style="width: 100%; max-width:600px" alt="an image" class="art-lightbox"&gt;&lt;p&gt;Image by Flickr/cfourcalvin&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Lacus nascetur aliquam tortor faucibus eu in iaculis non quis maecenas sagittis posuere pede turpis metus.  Nam arcu sed quam proin ipsum. &lt;/p&gt;&lt;ol&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Egestas a nec eget sit. Nec consectetuer et aenean sagittis enim vehicula praesent integer commodo.&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;A suspendisse maecenas.  tristique nec elementum pellentesque non interdum ut vestibulum sed a mi. &lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Quis nunc lacinia enim. Feugiat ipsum eu ac dolor praesent vestibulum cubilia nec quisque a dui ut.&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Ac morbi nonummy lorem. Accumsan maecenas lacus a a ullamcorper nam convallis vel senectus ante in.&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Orci purus litora et.  Nibh semper sollicitudin vestibulum sagittis consectetuer donec ultricies. &lt;/a&gt;&lt;/li&gt;
+        
+        &lt;/ol&gt;&lt;p&gt;&lt;a href="#"&gt;More →&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding: 0px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+  </post>
+  <post caption="Post" categories="" dateModified="07/23/2012 16:17:12" name="post" status="published" tags="" title="Lorem ipsum">
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;div class="image-caption-wrapper" style="width: 55%; float: left"&gt;&lt;img alt="an-image" style="width: 100%" class="art-lightbox" src="./images/shutterstock_62287657-01-3.jpg"&gt;&lt;/div&gt;
+        &lt;h1&gt;Heading 1&lt;/h1&gt;
+        &lt;h2&gt;Heading 2&lt;/h2&gt;
+        &lt;h3&gt;Heading 3&lt;/h3&gt;
+        &lt;h4&gt;Heading 4&lt;/h4&gt;
+        &lt;h5&gt;Heading 5&lt;/h5&gt;
+        &lt;h6&gt;Heading 6&lt;/h6&gt;
+        &lt;p&gt;Lorem dolor&amp;nbsp;amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;“This stylesheet is going to help so freaking much.”&lt;br&gt;
+        -Blockquote&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;ul&gt;
+        &lt;li&gt;List Item 1&lt;/li&gt;
+        &lt;li&gt;List Item 2&lt;/li&gt;
+        &lt;li&gt;List Item 3&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;table class="art-article"&gt;
+        &lt;tbody&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class="even"&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/tbody&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;div class="image-caption-wrapper" style="width: 55%; float: left"&gt;&lt;img alt="an-image" style="width: 100%" class="art-lightbox" src="shutterstock_62287657-01-3.jpg"&gt;&lt;/div&gt;
+        &lt;h1&gt;Heading 1&lt;/h1&gt;
+        &lt;h2&gt;Heading 2&lt;/h2&gt;
+        &lt;h3&gt;Heading 3&lt;/h3&gt;
+        &lt;h4&gt;Heading 4&lt;/h4&gt;
+        &lt;h5&gt;Heading 5&lt;/h5&gt;
+        &lt;h6&gt;Heading 6&lt;/h6&gt;
+        &lt;p&gt;Lorem dolor&amp;nbsp;amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;“This stylesheet is going to help so freaking much.”&lt;br&gt;
+        -Blockquote&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;ul&gt;
+        &lt;li&gt;List Item 1&lt;/li&gt;
+        &lt;li&gt;List Item 2&lt;/li&gt;
+        &lt;li&gt;List Item 3&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;table class="art-article"&gt;
+        &lt;tbody&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class="even"&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/tbody&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+  </post>
+ </posts>
+ <pages>
+  <page author="" caption="Главная" dateModified="09/18/2015 16:32:38" description="" keywords="" metaTags="" name="главная" path="/главная" showInHmenu="True" showInVmenu="True" showTitle="False" title="Home" titleInBrowser="Home">
+   <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;h3 style="border-bottom: 1px solid #BFBFBF; padding-bottom: 5px"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Востановление школы № 63 г. Донецк&lt;/h3&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Aliquam non nisi congue nun&lt;img width="300" height="203" alt="" class="art-lightbox" src="./images/shutterstock_5793436.jpg" style="float: left; "&gt;c nonummy nunc vehicula leo erat aenean.&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;Curabitur odio ac sed fermentum at ullamcorper quis id. Quis ipsum blandit mi imperdiet scelerisque semper. Nullam et semper et. Ligula mauris ultricies mi eu sociosqu nostra rhoncus tortor. Pharetra porttitor. Volutpat ultricies ultrices quis leo dui quis ut posuere pede ipsum. Quisque vestibulum nisl blandit fusce sed at. Suspendisse morbi et viverra eget hendrerit amet. Et mi eros ac adipiscing placerat ac imperdiet eget. Sed quam magna. Nunc vestibulum quam elementum iaculis. Pellentesque eget nec in viverra suspendisse sagittis nec fusce curae. Morbi aliquet ligula inceptos nisi augue. &lt;a href="#"&gt;More Info&lt;/a&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="#"&gt;&lt;br&gt;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;p style="text-align: right;"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;h3 style="padding-bottom: 5px; font-size: 26px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(191, 191, 191);"&gt;Востановление 1&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 10px; padding-right: 5px; padding-bottom: 10px; padding-left: 5px;"&gt;&lt;img style="float: left; margin-top: 10px; margin-right: 5px; margin-bottom: 10px; margin-left: 5px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" width="230" height="155" alt="" class="art-lightbox" src="./images/f5a5ac48-22f5-428e-baa5-90ea64d91f57.png"&gt;&lt;/div&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;div class="image-caption-wrapper" style="padding-top: 10px; padding-bottom: 10px; float: left;"&gt;&lt;span style="font-weight: bold;"&gt;Hendrerit morbi turpis volutpat aptent in non adipiscing lacus leo.&lt;/span&gt;&lt;/div&gt;
+        &lt;p&gt;Augue suscipit ut arcu malesuada luctus arcu iaculis varius quam fringilla id tellus ultricies quis ac quis. Pede eget sit rutrum sed dolor fusce vitae ligula rutrum primis condimentum nisi. Ligula felis nulla auctor in lla.&amp;nbsp; &amp;nbsp;&lt;a href="#"&gt;More Info&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-3" style="width: 34%" &gt;
+        &lt;h3 style="border-bottom: 1px solid #BFBFBF; padding-bottom: 5px"&gt;Востановление 2&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 10px; padding-right: 5px; padding-bottom: 10px; padding-left: 5px;"&gt;&lt;img style="float: left; margin-top: 10px; margin-right: 5px; margin-bottom: 10px; margin-left: 5px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" width="230" height="155" alt="" class="art-lightbox" src="./images/a53ad4d8-d385-40e1-8e80-9647e586c5c9.png"&gt;&lt;/div&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 10px; padding-right: 5px; padding-bottom: 10px; padding-left: 5px;"&gt;&lt;span style="font-weight: bold;"&gt;Hendrerit morbi turpis volutpat aptent in non adipiscing lacus leo.&lt;/span&gt;&lt;/div&gt;
+        &lt;p&gt;Augue suscipit ut arcu malesuada luctus arcu iaculis varius quam fringilla id tellus ultricies quis ac quis. Pede eget sit rutrum sed dolor fusce vitae ligula rutrum primis condimentum nisi. Ligula uctor auctor. &amp;nbsp;&lt;a href="#"&gt;More Info&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href="#"&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-4" style="width: 33%" &gt;
+        &lt;h3 style="padding-bottom: 5px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(191, 191, 191);"&gt;Востановление 3&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 10px; padding-right: 5px; padding-bottom: 10px; padding-left: 5px;"&gt;&lt;img style="float: left; margin-top: 10px; margin-right: 5px; margin-bottom: 10px; margin-left: 5px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" width="230" height="155" alt="" class="art-lightbox" src="./images/00b3e3ac-e1ae-4b0d-a580-ddfa743f9f76.png"&gt;&lt;/div&gt;
+        &lt;div class="image-caption-wrapper" style="padding-top: 10px; padding-bottom: 10px; float: left;"&gt;&lt;span style="font-weight: bold;"&gt;Hendrerit morbi turpis volutpat aptent in non adipiscing lacus&amp;nbsp;&lt;/span&gt;&lt;/div&gt;
+        &lt;p&gt;Augue suscipit ut arcu malesuada luctus arcu iaculis varius quam fringilla id tellus ultricies quis ac quis. Pede eget sit rutrum sed dolor fusce vitae ligula rutrum primis condimentum nisi. Ligula felis. &amp;nbsp; &amp;nbsp;&lt;a href="#"&gt;More Info&lt;/a&gt;&lt;/p&gt;
+        &lt;p style="text-align: justify;"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-3" style="width: 34%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-4" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;h3 style="border-bottom: 1px solid #BFBFBF; padding-bottom: 5px"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Востановление школы № 63 г. Донецк&lt;/h3&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Aliquam non nisi congue nun&lt;img width="300" height="203" alt="" class="art-lightbox" src="shutterstock_5793436.jpg" style="float: left; "&gt;c nonummy nunc vehicula leo erat aenean.&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;Curabitur odio ac sed fermentum at ullamcorper quis id. Quis ipsum blandit mi imperdiet scelerisque semper. Nullam et semper et. Ligula mauris ultricies mi eu sociosqu nostra rhoncus tortor. Pharetra porttitor. Volutpat ultricies ultrices quis leo dui quis ut posuere pede ipsum. Quisque vestibulum nisl blandit fusce sed at. Suspendisse morbi et viverra eget hendrerit amet. Et mi eros ac adipiscing placerat ac imperdiet eget. Sed quam magna. Nunc vestibulum quam elementum iaculis. Pellentesque eget nec in viverra suspendisse sagittis nec fusce curae. Morbi aliquet ligula inceptos nisi augue. &lt;a href="#"&gt;More Info&lt;/a&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="#"&gt;&lt;br&gt;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;p style="text-align: right;"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-3" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-4" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;h3 style="padding-bottom: 5px; font-size: 26px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(191, 191, 191);"&gt;Востановление 1&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 10px; padding-right: 5px; padding-bottom: 10px; padding-left: 5px;"&gt;&lt;img style="float: left; margin-top: 10px; margin-right: 5px; margin-bottom: 10px; margin-left: 5px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" width="230" height="155" alt="" class="art-lightbox" src="f5a5ac48-22f5-428e-baa5-90ea64d91f57.png"&gt;&lt;/div&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;div class="image-caption-wrapper" style="padding-top: 10px; padding-bottom: 10px; float: left;"&gt;&lt;span style="font-weight: bold;"&gt;Hendrerit morbi turpis volutpat aptent in non adipiscing lacus leo.&lt;/span&gt;&lt;/div&gt;
+        &lt;p&gt;Augue suscipit ut arcu malesuada luctus arcu iaculis varius quam fringilla id tellus ultricies quis ac quis. Pede eget sit rutrum sed dolor fusce vitae ligula rutrum primis condimentum nisi. Ligula felis nulla auctor in lla.&amp;nbsp; &amp;nbsp;&lt;a href="#"&gt;More Info&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-3" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-4" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;h3 style="border-bottom: 1px solid #BFBFBF; padding-bottom: 5px"&gt;Востановление 2&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 10px; padding-right: 5px; padding-bottom: 10px; padding-left: 5px;"&gt;&lt;img style="float: left; margin-top: 10px; margin-right: 5px; margin-bottom: 10px; margin-left: 5px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" width="230" height="155" alt="" class="art-lightbox" src="a53ad4d8-d385-40e1-8e80-9647e586c5c9.png"&gt;&lt;/div&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 10px; padding-right: 5px; padding-bottom: 10px; padding-left: 5px;"&gt;&lt;span style="font-weight: bold;"&gt;Hendrerit morbi turpis volutpat aptent in non adipiscing lacus leo.&lt;/span&gt;&lt;/div&gt;
+        &lt;p&gt;Augue suscipit ut arcu malesuada luctus arcu iaculis varius quam fringilla id tellus ultricies quis ac quis. Pede eget sit rutrum sed dolor fusce vitae ligula rutrum primis condimentum nisi. Ligula uctor auctor. &amp;nbsp;&lt;a href="#"&gt;More Info&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href="#"&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-3" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-4" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;h3 style="padding-bottom: 5px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(191, 191, 191);"&gt;Востановление 3&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 10px; padding-right: 5px; padding-bottom: 10px; padding-left: 5px;"&gt;&lt;img style="float: left; margin-top: 10px; margin-right: 5px; margin-bottom: 10px; margin-left: 5px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" width="230" height="155" alt="" class="art-lightbox" src="00b3e3ac-e1ae-4b0d-a580-ddfa743f9f76.png"&gt;&lt;/div&gt;
+        &lt;div class="image-caption-wrapper" style="padding-top: 10px; padding-bottom: 10px; float: left;"&gt;&lt;span style="font-weight: bold;"&gt;Hendrerit morbi turpis volutpat aptent in non adipiscing lacus&amp;nbsp;&lt;/span&gt;&lt;/div&gt;
+        &lt;p&gt;Augue suscipit ut arcu malesuada luctus arcu iaculis varius quam fringilla id tellus ultricies quis ac quis. Pede eget sit rutrum sed dolor fusce vitae ligula rutrum primis condimentum nisi. Ligula felis. &amp;nbsp; &amp;nbsp;&lt;a href="#"&gt;More Info&lt;/a&gt;&lt;/p&gt;
+        &lt;p style="text-align: justify;"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-3" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-4" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { margin-bottom: 10px;  }
+.art-content .art-postcontent-0 .layout-item-1 { border-right-style:solid;border-right-width:1px;border-right-color:#A7A4AD; padding-right: 19px;padding-left: 0px;  }
+.art-content .art-postcontent-0 .layout-item-2 { border-right-style:solid;border-right-width:1px;border-right-color:#A7A4AD; padding-right: 10px;padding-left: 6px;  }
+.art-content .art-postcontent-0 .layout-item-3 { padding-right: 10px;padding-left: 10px;  }
+.art-content .art-postcontent-0 .layout-item-4 { border-right-style:solid;border-right-width:1px;border-right-color:#A7A4AD; padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <pages>
+    <page author="" caption="Subpage 1" dateModified="07/13/2012 13:26:17" description="" keywords="" metaTags="" name="new-page" path="/главная/new-page" showInHmenu="True" showInVmenu="True" showTitle="True" title="Subpage 1" titleInBrowser="Subpage 1">
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <layout>
+      <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+      <contents>
+       <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+      </contents>
+     </layout>
+     <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+    </page>
+    <page author="" caption="Subpage 2" dateModified="07/13/2012 13:26:24" description="" keywords="" metaTags="" name="new-page-2" path="/главная/new-page-2" showInHmenu="True" showInVmenu="True" showTitle="True" title="Subpage 2" titleInBrowser="Subpage 2">
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <layout>
+      <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+      <contents>
+       <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+      </contents>
+     </layout>
+     <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+    </page>
+    <page author="" caption="Subpage 3" dateModified="07/13/2012 13:26:28" description="" keywords="" metaTags="" name="new-page-3" path="/главная/new-page-3" showInHmenu="True" showInVmenu="True" showTitle="True" title="Subpage 3" titleInBrowser="Subpage 3">
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <layout>
+      <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+      <contents>
+       <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+      </contents>
+     </layout>
+     <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+    </page>
+   </pages>
+  </page>
+  <page author="" caption="Новоси" dateModified="08/19/2015 17:40:26" description="" keywords="" metaTags="" name="новоси" path="/новоси" posts_page="true" showInHmenu="True" showInVmenu="True" showTitle="False" title="Blog Page" titleInBrowser="Blog Page">
+   <content>&lt;div class="art-content-layout-wrapper post-layout-item-0"&gt;
+&lt;div class="art-content-layout post-layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell post-layout-item-2" style="width: 100%" &gt;
+        &lt;article class="art-post art-article"&gt;
+                                        &lt;div class="art-postmetadataheader"&gt;
+                                                &lt;h2 class="art-postheader"&gt;&lt;span class="art-postheadericon"&gt;&lt;a href="#"&gt;Conse ctetur&lt;/a&gt;
+                                                &lt;/span&gt;&lt;/h2&gt;
+                                            &lt;/div&gt;
+                                                        &lt;div class="art-postheadericons art-metadata-icons"&gt;
+                            &lt;span class="art-postdateicon"&gt;&lt;/span&gt;
+                             | &lt;span class="art-postauthoricon"&gt; &lt;a href="#" title="Posts by Admin"&gt;Admin&lt;/a&gt;&lt;/span&gt;
+                                            &lt;/div&gt;
+                        &lt;div class="art-postcontent art-postcontent-0 clearfix" &gt;
+        &lt;div class="art-content-layout"&gt;
+        &lt;div class="art-content-layout-row"&gt;
+        &lt;div class="art-layout-cell layout-item-0" style="width: 100%"&gt;
+        &lt;h3&gt;Introduction&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="width: 60%; float: left"&gt;&lt;img src="./images/0ce4a.jpg" style="width: 100%; max-width:600px" alt="an image" class="art-lightbox"&gt;
+        &lt;p&gt;Image by Flickr/cfourcalvin&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;p&gt;Lacus nascetur aliquam tortor faucibus eu in iaculis non quis maecenas sagittis posuere pede turpis metus. Nam arcu sed quam proin ipsum.&lt;/p&gt;
+        &lt;ol&gt;
+        &lt;li&gt;&lt;a href="#"&gt;Egestas a nec eget sit. Nec consectetuer et aenean sagittis enim vehicula praesent integer commodo.&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#"&gt;A suspendisse maecenas. tristique nec elementum pellentesque non interdum ut vestibulum sed a mi.&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#"&gt;Quis nunc lacinia enim.&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;&lt;br /&gt;&lt;a href="#"&gt;Далее...&lt;/a&gt;
+                        &lt;/div&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper post-layout-item-3"&gt;
+&lt;div class="art-content-layout post-layout-item-4"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell post-layout-item-2" style="width: 100%" &gt;
+        &lt;article class="art-post art-article"&gt;
+                                        &lt;div class="art-postmetadataheader"&gt;
+                                                &lt;h2 class="art-postheader"&gt;&lt;span class="art-postheadericon"&gt;&lt;a href="#"&gt;Lorem ipsum&lt;/a&gt;
+                                                &lt;/span&gt;&lt;/h2&gt;
+                                            &lt;/div&gt;
+                                                        &lt;div class="art-postheadericons art-metadata-icons"&gt;
+                            &lt;span class="art-postdateicon"&gt;&lt;/span&gt;
+                             | &lt;span class="art-postauthoricon"&gt; &lt;a href="#" title="Posts by Admin"&gt;Admin&lt;/a&gt;&lt;/span&gt;
+                                            &lt;/div&gt;
+                        &lt;div class="art-postcontent art-postcontent-1 clearfix" &gt;
+        &lt;div class="art-content-layout"&gt;
+        &lt;div class="art-content-layout-row"&gt;
+        &lt;div class="art-layout-cell layout-item-0" style="width: 100%"&gt;
+        &lt;div class="image-caption-wrapper" style="width: 55%; float: left"&gt;&lt;img alt="an-image" style="width: 100%" class="art-lightbox" src="./images/shutterstock_62287657-01-3.jpg"&gt;&lt;/div&gt;
+        &lt;h1&gt;Heading 1&lt;/h1&gt;
+        &lt;h2&gt;Heading 2&lt;/h2&gt;
+        &lt;h3&gt;Heading 3&lt;/h3&gt;
+        &lt;h4&gt;Heading 4&lt;/h4&gt;
+        &lt;h5&gt;Heading 5&lt;/h5&gt;
+        &lt;h6&gt;Heading 6&lt;/h6&gt;
+        &lt;p&gt;Lorem dolor&amp;nbsp;amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;&lt;br /&gt;&lt;a href="#"&gt;Далее...&lt;/a&gt;
+                        &lt;/div&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout-wrapper post-layout-item-0"&gt;
+&lt;div class="art-content-layout post-layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell post-layout-item-2" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper post-layout-item-3"&gt;
+&lt;div class="art-content-layout post-layout-item-4"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell post-layout-item-2" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-3"&gt;
+&lt;div class="art-content-layout layout-item-4"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-3"&gt;
+&lt;div class="art-content-layout layout-item-4"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding: 0px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }.art-content .art-postcontent-1 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }.art-content .post-layout-item-0 { margin-top: 10px;margin-right: 10px;margin-bottom: 10px;margin-left: 10px;  }
+.art-content .post-layout-item-1 { border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-color:#A7A4AD;border-right-color:#A7A4AD;border-bottom-color:#A7A4AD;border-left-color:#A7A4AD; border-spacing: 0px 10px; border-collapse: separate; border-radius: 0px;  }
+.art-content .post-layout-item-2 { padding-right: 10px;padding-left: 10px;  }
+.art-content .post-layout-item-3 { margin-right: 10px;margin-bottom: 10px;margin-left: 10px;  }
+.art-content .post-layout-item-4 { border-radius: 0px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+  </page>
+  <page author="" caption="Предложить" dateModified="08/19/2015 16:23:21" description="" keywords="" metaTags="" name="предложить" path="/предложить" showInHmenu="True" showInVmenu="True" showTitle="False" title="Новая страница" titleInBrowser="Новая страница">
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;h3 style="border-bottom: 1px solid #BFBFBF; padding-bottom: 5px"&gt;Hello!&lt;/h3&gt;&lt;div class="image-caption-wrapper" style="width: 60%; float: left"&gt;&lt;img src="./images/7f02d.jpg" style="width: 100%; max-width:450px" alt="an image" class="art-lightbox"&gt;&lt;p&gt;Image by Flickr/Georgio&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Morbi faucibus eros at nibh lacus in nec quis a eros ultricies malesuada diam placerat praesent lorem ante.  Quam sagittis cras pretium non.&lt;/p&gt;&lt;ul&gt;
+            &lt;li&gt;&lt;span style="font-weight: bold;"&gt;In aliquet tincidunt.  Maecenas tortor blandit dolor  vivamus quisque nec id mauris sed quam duis.&lt;/span&gt;&lt;br&gt;Vestibulum tellus sit eget donec id. Metus leo augue nibh. &lt;/li&gt;
+            &lt;li&gt;&lt;span style="font-weight: bold;"&gt;Euismod interdum vel.  Nunc facilisi felis phasellus nunc sed pellentesque massa nunc ipsum dolor.&lt;/span&gt;&lt;br&gt;Semper sagittis sodales quam in sed. Tempor auctor natoque. &lt;/li&gt;
+            &lt;li&gt;&lt;span style="font-weight: bold;"&gt;Et cras eget semper et. Ac hendrerit dolor duis cras curae a vehicula tellus urna iaculis ut ac id.&lt;/span&gt;&lt;br&gt;Nec faucibus ligula nec aliquam  et. Elit sed metus nunc eu.&lt;/li&gt;
+          
+        &lt;/ul&gt;&lt;p&gt;&lt;a href="#" class="art-button"&gt;Еще&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-br layout-item-0"&gt;
+&lt;/div&gt;&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;h3 style="border-bottom: 1px solid #BFBFBF; padding-bottom: 5px"&gt;About&lt;/h3&gt;&lt;div class="image-caption-wrapper" style="width: 60%; float: left"&gt;&lt;img src="./images/bbe8e.jpg" style="width: 100%; max-width:600px" alt="an image" class="art-lightbox"&gt;&lt;p&gt;Image by Flickr/Ishrona&lt;/p&gt;&lt;/div&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;span style="font-style: italic;"&gt;Donec nunc rutrum tempor nulla id magna neque posuere nec in lacus ac.  Posuere ultricies ligula quam sed posuere neque pulvinar vestibulum accumsan sed.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Dolor sed non eget consectetuer volutpat  ante feugiat. Adipiscing venenatis primis nunc mi libero eros in.  A class leo leo nec. Fringilla phasellus nec vestibulum varius nisl tempus proin.  Mi curabitur enim.  Eleifend nec pede torquent felis congue purus volutpat donec vel ut. Phasellus at laoreet ac congue pellentesque.  Nec metus praesent felis quis diam consectetuer.  Per ligula lectus hendrerit vitae neque diam in dui. Suscipit eget id. Adipiscing sapien eu nam velit justo nec. Leo elit congue nulla euismod mauris hac odio elit pellentesque a eu.  Pede adipiscing felis posuere mauris lacus suspendisse. &lt;/p&gt;&lt;p&gt;&lt;a href="#"&gt;Еще&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-br layout-item-0"&gt;
+&lt;/div&gt;&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;h3 style="border-bottom: 1px solid #BFBFBF; padding-bottom: 5px"&gt;Hello!&lt;/h3&gt;&lt;div class="image-caption-wrapper" style="width: 60%; float: left"&gt;&lt;img src="7f02d.jpg" style="width: 100%; max-width:450px" alt="an image" class="art-lightbox"&gt;&lt;p&gt;Image by Flickr/Georgio&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Morbi faucibus eros at nibh lacus in nec quis a eros ultricies malesuada diam placerat praesent lorem ante.  Quam sagittis cras pretium non.&lt;/p&gt;&lt;ul&gt;
+            &lt;li&gt;&lt;span style="font-weight: bold;"&gt;In aliquet tincidunt.  Maecenas tortor blandit dolor  vivamus quisque nec id mauris sed quam duis.&lt;/span&gt;&lt;br&gt;Vestibulum tellus sit eget donec id. Metus leo augue nibh. &lt;/li&gt;
+            &lt;li&gt;&lt;span style="font-weight: bold;"&gt;Euismod interdum vel.  Nunc facilisi felis phasellus nunc sed pellentesque massa nunc ipsum dolor.&lt;/span&gt;&lt;br&gt;Semper sagittis sodales quam in sed. Tempor auctor natoque. &lt;/li&gt;
+            &lt;li&gt;&lt;span style="font-weight: bold;"&gt;Et cras eget semper et. Ac hendrerit dolor duis cras curae a vehicula tellus urna iaculis ut ac id.&lt;/span&gt;&lt;br&gt;Nec faucibus ligula nec aliquam  et. Elit sed metus nunc eu.&lt;/li&gt;
+          
+        &lt;/ul&gt;&lt;p&gt;&lt;a href="#" class="art-button"&gt;Еще&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-br layout-item-0"&gt;
+&lt;/div&gt;&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;h3 style="border-bottom: 1px solid #BFBFBF; padding-bottom: 5px"&gt;About&lt;/h3&gt;&lt;div class="image-caption-wrapper" style="width: 60%; float: left"&gt;&lt;img src="bbe8e.jpg" style="width: 100%; max-width:600px" alt="an image" class="art-lightbox"&gt;&lt;p&gt;Image by Flickr/Ishrona&lt;/p&gt;&lt;/div&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;span style="font-style: italic;"&gt;Donec nunc rutrum tempor nulla id magna neque posuere nec in lacus ac.  Posuere ultricies ligula quam sed posuere neque pulvinar vestibulum accumsan sed.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Dolor sed non eget consectetuer volutpat  ante feugiat. Adipiscing venenatis primis nunc mi libero eros in.  A class leo leo nec. Fringilla phasellus nec vestibulum varius nisl tempus proin.  Mi curabitur enim.  Eleifend nec pede torquent felis congue purus volutpat donec vel ut. Phasellus at laoreet ac congue pellentesque.  Nec metus praesent felis quis diam consectetuer.  Per ligula lectus hendrerit vitae neque diam in dui. Suscipit eget id. Adipiscing sapien eu nam velit justo nec. Leo elit congue nulla euismod mauris hac odio elit pellentesque a eu.  Pede adipiscing felis posuere mauris lacus suspendisse. &lt;/p&gt;&lt;p&gt;&lt;a href="#"&gt;Еще&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-br layout-item-0"&gt;
+&lt;/div&gt;&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { border-top-width:1px;border-top-style:solid;border-top-color:#A7A4AD;margin-top: 10px;margin-bottom: 10px;  }
+.art-content .art-postcontent-0 .layout-item-1 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+  </page>
+  <page author="" caption="Отчеты" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="отчеты" path="/отчеты" showInHmenu="True" showInVmenu="True" showTitle="True" title="Новая страница 2" titleInBrowser="Новая страница 2">
+   <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+   <pageHead></pageHead>
+  </page>
+  <page author="" caption="Контакты" dateModified="08/19/2015 16:17:36" description="" keywords="" metaTags="" name="контакты" path="/контакты" showInHmenu="True" showInVmenu="True" showTitle="True" title="Новая страница 3" titleInBrowser="Новая страница 3">
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead></pageHead>
+  </page>
+ </pages>
+ <sidebars>
+  <sidebar caption="" name="sidebar1">
+   <block name="text" position="0" title="Фото">
+    <content>&lt;p&gt;&lt;img width="172" height="117" alt="" class="art-lightbox" src="shutterstock_11189998.jpg"&gt;&lt;/p&gt;</content>
+    <pageHead></pageHead>
+   </block>
+   <block name="text-4" position="1" title="Видео">
+    <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <pageHead></pageHead>
+   </block>
+   <block name="text-2" position="2" title="календарь">
+    <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <pageHead></pageHead>
+   </block>
+   <block name="text-3" position="3" title="Новости">
+    <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <pageHead></pageHead>
+   </block>
+  </sidebar>
+  <sidebar caption="" name="content-before" />
+  <sidebar caption="" name="content-after" />
+ </sidebars>
+</site>

@@ -1,0 +1,1592 @@
+<site>
+ <posts>
+  <post caption="Post 2" categories="" dateModified="08/19/2015 17:48:04" name="post-2" status="published" tags="" title="Conse ctetur">
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;h3&gt;Introduction&lt;/h3&gt;&lt;div class="image-caption-wrapper" style="width: 60%; float: left"&gt;&lt;img src="./images/0ce4a.jpg" style="width: 100%; max-width:600px" alt="an image" class="art-lightbox"&gt;&lt;p&gt;Image by Flickr/cfourcalvin&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Lacus nascetur aliquam tortor faucibus eu in iaculis non quis maecenas sagittis posuere pede turpis metus.  Nam arcu sed quam proin ipsum. &lt;/p&gt;&lt;ol&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Egestas a nec eget sit. Nec consectetuer et aenean sagittis enim vehicula praesent integer commodo.&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;A suspendisse maecenas.  tristique nec elementum pellentesque non interdum ut vestibulum sed a mi. &lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Quis nunc lacinia enim. Feugiat ipsum eu ac dolor praesent vestibulum cubilia nec quisque a dui ut.&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Ac morbi nonummy lorem. Accumsan maecenas lacus a a ullamcorper nam convallis vel senectus ante in.&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Orci purus litora et.  Nibh semper sollicitudin vestibulum sagittis consectetuer donec ultricies. &lt;/a&gt;&lt;/li&gt;
+        
+        &lt;/ol&gt;&lt;p&gt;&lt;a href="#"&gt;More →&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;h3&gt;Introduction&lt;/h3&gt;&lt;div class="image-caption-wrapper" style="width: 60%; float: left"&gt;&lt;img src="0ce4a.jpg" style="width: 100%; max-width:600px" alt="an image" class="art-lightbox"&gt;&lt;p&gt;Image by Flickr/cfourcalvin&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Lacus nascetur aliquam tortor faucibus eu in iaculis non quis maecenas sagittis posuere pede turpis metus.  Nam arcu sed quam proin ipsum. &lt;/p&gt;&lt;ol&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Egestas a nec eget sit. Nec consectetuer et aenean sagittis enim vehicula praesent integer commodo.&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;A suspendisse maecenas.  tristique nec elementum pellentesque non interdum ut vestibulum sed a mi. &lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Quis nunc lacinia enim. Feugiat ipsum eu ac dolor praesent vestibulum cubilia nec quisque a dui ut.&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Ac morbi nonummy lorem. Accumsan maecenas lacus a a ullamcorper nam convallis vel senectus ante in.&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Orci purus litora et.  Nibh semper sollicitudin vestibulum sagittis consectetuer donec ultricies. &lt;/a&gt;&lt;/li&gt;
+        
+        &lt;/ol&gt;&lt;p&gt;&lt;a href="#"&gt;More →&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding: 0px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+  </post>
+  <post caption="Post" categories="" dateModified="07/23/2012 16:17:12" name="post" status="published" tags="" title="Lorem ipsum">
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;div class="image-caption-wrapper" style="width: 55%; float: left"&gt;&lt;img alt="an-image" style="width: 100%" class="art-lightbox" src="./images/shutterstock_62287657-01-3.jpg"&gt;&lt;/div&gt;
+        &lt;h1&gt;Heading 1&lt;/h1&gt;
+        &lt;h2&gt;Heading 2&lt;/h2&gt;
+        &lt;h3&gt;Heading 3&lt;/h3&gt;
+        &lt;h4&gt;Heading 4&lt;/h4&gt;
+        &lt;h5&gt;Heading 5&lt;/h5&gt;
+        &lt;h6&gt;Heading 6&lt;/h6&gt;
+        &lt;p&gt;Lorem dolor&amp;nbsp;amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;“This stylesheet is going to help so freaking much.”&lt;br&gt;
+        -Blockquote&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;ul&gt;
+        &lt;li&gt;List Item 1&lt;/li&gt;
+        &lt;li&gt;List Item 2&lt;/li&gt;
+        &lt;li&gt;List Item 3&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;table class="art-article"&gt;
+        &lt;tbody&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class="even"&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/tbody&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;div class="image-caption-wrapper" style="width: 55%; float: left"&gt;&lt;img alt="an-image" style="width: 100%" class="art-lightbox" src="shutterstock_62287657-01-3.jpg"&gt;&lt;/div&gt;
+        &lt;h1&gt;Heading 1&lt;/h1&gt;
+        &lt;h2&gt;Heading 2&lt;/h2&gt;
+        &lt;h3&gt;Heading 3&lt;/h3&gt;
+        &lt;h4&gt;Heading 4&lt;/h4&gt;
+        &lt;h5&gt;Heading 5&lt;/h5&gt;
+        &lt;h6&gt;Heading 6&lt;/h6&gt;
+        &lt;p&gt;Lorem dolor&amp;nbsp;amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;“This stylesheet is going to help so freaking much.”&lt;br&gt;
+        -Blockquote&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;ul&gt;
+        &lt;li&gt;List Item 1&lt;/li&gt;
+        &lt;li&gt;List Item 2&lt;/li&gt;
+        &lt;li&gt;List Item 3&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;table class="art-article"&gt;
+        &lt;tbody&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;th&gt;Header&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class="even"&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;td&gt;Data&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/tbody&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+  </post>
+ </posts>
+ <pages>
+  <page author="" caption="Главная" dateModified="11/03/2015 17:17:07" description="" keywords="" metaTags="" name="главная" path="/главная" showInHmenu="True" showInVmenu="True" showTitle="False" title="Home" titleInBrowser="Home">
+   <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-3" style="width: 100%" &gt;
+        &lt;h3 style="border-bottom: 1px solid #BFBFBF; padding-bottom: 5px"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style="color: rgb(255, 255, 255);"&gt; &lt;/span&gt;&lt;span style="color: rgb(255, 255, 255); text-shadow: rgb(23, 23, 23) 0px 0px 12px;"&gt;&amp;nbsp;&lt;span style="color: rgb(27, 81, 126); text-shadow: rgb(255, 255, 255) 0px 0px 12px;"&gt;Востановление 92й гимназии&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+        &lt;p style="text-align: center;"&gt;&lt;span style="font-weight: bold;"&gt;&amp;nbsp; &amp;nbsp; &lt;span style="font-size: 12pt; font-family: 'Times New Roman', serif;"&gt;&amp;nbsp;&amp;nbsp;В настоящее время в гимназии обучается 604 ученика с 1 по 11 класс.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div id="1fecfa313d0b489288584a27eb2c13d8" style="position: relative; display: inline-block; z-index: 0; margin: 5px;  border-width: 0px;  float: left;" class="art-collage"&gt;
+&lt;div class="art-slider art-slidecontainer1fecfa313d0b489288584a27eb2c13d8"&gt;
+    &lt;div class="art-slider-inner"&gt;
+&lt;div class="art-slide-item art-slide1fecfa313d0b489288584a27eb2c13d80"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide1fecfa313d0b489288584a27eb2c13d81"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide1fecfa313d0b489288584a27eb2c13d82"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide1fecfa313d0b489288584a27eb2c13d83"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide1fecfa313d0b489288584a27eb2c13d84"&gt;
+
+&lt;/div&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-slidenavigator art-slidenavigator1fecfa313d0b489288584a27eb2c13d8"&gt;
+&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+
+    &lt;/div&gt;
+
+        &lt;p class="MsoNormal" style="margin-right: 14.15pt; line-height: 150%; text-align: justify;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;Гимназия № 92 за годы своей работы выпустила 196 медалистов и по праву является одним из лучших учебных заведений города. Выпускники билингвальных классов продолжают обучаться в странах Европы и России. На протяжении многих лет учащиеся гимназии показывают высокие результаты в предметных ученическиsх олимпиадах, международных проектах, а также различных конкурсах. Эти факторы подтверждают высокий профессионализм учителей, а многие выпускники гимназии вернулись в неё уже в качестве педагогов. В это трудное время, которое переживает наше государство, большая часть педагогов осталась верна своему учебному заведению. Педагогический коллектив гимназии – это творческие, талантливые и креативные педагоги, которые могут смело принимать решение об участии в инновационных проектах, внедрять новые технологии в учебный процесс и достигать высоких результатов.&amp;nbsp;Однако в результате жестоких и беспощадных обстрелов со стороны украинских военных 4 февраля 2015 года Донецкая гимназия № 92 пострадала. В следствии разрушений, заведение осталась без стекол (207 окон затянуты пленкой). Также повреждения имеет кровля, находящаяся над спортивным залом.&amp;nbsp;&lt;a href="#"&gt;Читать далее&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;
+        &lt;p class="MsoNormal" style="margin-right: 14.15pt; line-height: 150%; text-align: justify;"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-br layout-item-2"&gt;
+&lt;/div&gt;&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-4" style="width: 33%" &gt;
+        &lt;h3 style="padding-bottom: 5px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(191, 191, 191); text-align: center;"&gt;&lt;span style="font-size: 22px; color: #0F3E57;"&gt;Восстановление детского социального центра г. Горловки&lt;/span&gt;&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 10px; padding-right: 5px; padding-bottom: 10px; padding-left: 0px;"&gt;&lt;div id="5d2dce85348a4473914ad22fc78de514" style="position: relative; display: inline-block; z-index: 0; margin-top: 10px; margin-right: 5px; margin-bottom: 10px; margin-left: 0px;  border-width: 0px;  float: left;" class="art-collage"&gt;
+&lt;div class="art-slider art-slidecontainer5d2dce85348a4473914ad22fc78de514"&gt;
+    &lt;div class="art-slider-inner"&gt;
+&lt;div class="art-slide-item art-slide5d2dce85348a4473914ad22fc78de5140"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide5d2dce85348a4473914ad22fc78de5141"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide5d2dce85348a4473914ad22fc78de5142"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide5d2dce85348a4473914ad22fc78de5143"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide5d2dce85348a4473914ad22fc78de5144"&gt;
+
+&lt;/div&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-slidenavigator art-slidenavigator5d2dce85348a4473914ad22fc78de514"&gt;
+&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+
+    &lt;/div&gt;
+&lt;/div&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;span style="font-family: Arial; font-weight: bold; line-height: 14px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;span style="font-family: Arial; font-weight: bold; line-height: 14px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;span style="font-size: 10px;"&gt;&lt;b&gt;&lt;span style="line-height: 14px; font-family: Arial; font-size: 13px;"&gt;Детский социальный центр.&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style="font-weight: bold;"&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="text-align: left;"&gt;&lt;span style="line-height: 14px; font-family: Arial;"&gt;Cоздан администрацией города для детей в возрасте от трех до восем-надцати лет, которые оказа-лись в сложной жизненной ситуации или остались без попечения родителей или лиц их заменяющих...&amp;nbsp;&lt;/span&gt;&lt;a href="#"&gt;Читать далее&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-5" style="width: 34%" &gt;
+        &lt;h3 style="padding-bottom: 5px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(191, 191, 191); text-align: center;"&gt;&lt;span style="font-size: 22px; color: #0F3E57;"&gt;Восстановление республиканского дома ребенка&lt;/span&gt;&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 10px; padding-right: 5px; padding-bottom: 10px; padding-left: 0px;"&gt;&lt;div id="a53ad4d8d38540e18e809647e586c5c9" style="position: relative; display: inline-block; z-index: 0; margin-top: 10px; margin-right: 5px; margin-bottom: 10px; margin-left: 0px;  border-width: 0px;  float: left;" class="art-collage"&gt;
+&lt;div class="art-slider art-slidecontainera53ad4d8d38540e18e809647e586c5c9"&gt;
+    &lt;div class="art-slider-inner"&gt;
+&lt;div class="art-slide-item art-slidea53ad4d8d38540e18e809647e586c5c90"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slidea53ad4d8d38540e18e809647e586c5c91"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slidea53ad4d8d38540e18e809647e586c5c92"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slidea53ad4d8d38540e18e809647e586c5c93"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slidea53ad4d8d38540e18e809647e586c5c94"&gt;
+
+&lt;/div&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-slidenavigator art-slidenavigatora53ad4d8d38540e18e809647e586c5c9"&gt;
+&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+
+    &lt;/div&gt;
+&lt;/div&gt;
+        &lt;p&gt;&lt;span style="font-size: 10px;"&gt;&lt;b&gt;&lt;span style="line-height: 14px; font-family: Arial; font-size: 13px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-size: 10px;"&gt;&lt;b&gt;&lt;span style="line-height: 14px; font-family: Arial; font-size: 13px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;span style="font-size: 10px;"&gt;&lt;b&gt;&lt;span style="line-height: 14px; font-family: Arial; font-size: 13px;"&gt;&amp;nbsp;Республиканский дом ребенка.&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;p style="text-align: left;"&gt;&lt;span style="line-height: 107%; font-family: Arial;"&gt;Республиканский специали-зированный дом ребенка функцио-нирует в Донецкой Народной Республике и в настоящее время насчитывает 47 воспитанников. Здесь находятся дети-сироты, дети...&lt;/span&gt;&lt;a href="#"&gt;Читать далее&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href="#"&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-6" style="width: 33%" &gt;
+        &lt;h3 style="padding-bottom: 5px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(191, 191, 191); text-align: center;"&gt;&lt;span style="font-size: 22px; color: #0F3E57;"&gt;Восстановление республиканского дома&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="padding-top: 10px; padding-right: 5px; padding-bottom: 10px; padding-left: 0px;"&gt;&lt;img style="margin-top: 10px; margin-right: 5px; margin-bottom: 10px; margin-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; " width="215" height="145" alt="" class="art-lightbox" src="./images/00b3e3ac-e1ae-4b0d-a580-ddfa743f9f76.png"&gt;&lt;/div&gt;
+        &lt;div class="image-caption-wrapper" style="padding-top: 10px; padding-bottom: 10px; float: left;"&gt;&lt;span style="font-weight: bold;"&gt;Hendrerit morbi turpis volutpat aptent in non adipiscing lacus&amp;nbsp;&lt;/span&gt;&lt;/div&gt;
+        &lt;p&gt;Augue suscipit ut arcu malesuada luctus arcu iaculis varius quam fringilla id tellus ultricies quis ac quis. Pede eget sit rutrum sed dolor fusce vitae ligula rutrum primis.tae &amp;nbsp;&amp;nbsp;&lt;a href="#"&gt;Читать далее&lt;/a&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;
+        &lt;p style="text-align: justify;"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-3" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-br layout-item-2"&gt;
+&lt;/div&gt;&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-4" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-5" style="width: 34%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-6" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-3" style="width: 100%" &gt;
+        &lt;h3 style="border-bottom: 1px solid #BFBFBF; padding-bottom: 5px"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style="color: rgb(255, 255, 255);"&gt; &lt;/span&gt;&lt;span style="color: rgb(255, 255, 255); text-shadow: rgb(23, 23, 23) 0px 0px 12px;"&gt;&amp;nbsp;&lt;span style="color: rgb(27, 81, 126); text-shadow: rgb(255, 255, 255) 0px 0px 12px;"&gt;Востановление 92й гимназии&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+        &lt;p style="text-align: center;"&gt;&lt;span style="font-weight: bold;"&gt;&amp;nbsp; &amp;nbsp; &lt;span style="font-size: 12pt; font-family: 'Times New Roman', serif;"&gt;&amp;nbsp;&amp;nbsp;В настоящее время в гимназии обучается 604 ученика с 1 по 11 класс.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div id="1fecfa313d0b489288584a27eb2c13d8" style="position: relative; display: inline-block; z-index: 0; margin: 5px;  border-width: 0px;  float: left;" class="art-collage"&gt;
+&lt;div class="art-slider art-slidecontainer1fecfa313d0b489288584a27eb2c13d8"&gt;
+    &lt;div class="art-slider-inner"&gt;
+&lt;div class="art-slide-item art-slide1fecfa313d0b489288584a27eb2c13d80"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide1fecfa313d0b489288584a27eb2c13d81"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide1fecfa313d0b489288584a27eb2c13d82"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide1fecfa313d0b489288584a27eb2c13d83"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide1fecfa313d0b489288584a27eb2c13d84"&gt;
+
+&lt;/div&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-slidenavigator art-slidenavigator1fecfa313d0b489288584a27eb2c13d8"&gt;
+&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+
+    &lt;/div&gt;
+
+        &lt;p class="MsoNormal" style="margin-right: 14.15pt; line-height: 150%; text-align: justify;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;Гимназия № 92 за годы своей работы выпустила 196 медалистов и по праву является одним из лучших учебных заведений города. Выпускники билингвальных классов продолжают обучаться в странах Европы и России. На протяжении многих лет учащиеся гимназии показывают высокие результаты в предметных ученическиsх олимпиадах, международных проектах, а также различных конкурсах. Эти факторы подтверждают высокий профессионализм учителей, а многие выпускники гимназии вернулись в неё уже в качестве педагогов. В это трудное время, которое переживает наше государство, большая часть педагогов осталась верна своему учебному заведению. Педагогический коллектив гимназии – это творческие, талантливые и креативные педагоги, которые могут смело принимать решение об участии в инновационных проектах, внедрять новые технологии в учебный процесс и достигать высоких результатов.&amp;nbsp;Однако в результате жестоких и беспощадных обстрелов со стороны украинских военных 4 февраля 2015 года Донецкая гимназия № 92 пострадала. В следствии разрушений, заведение осталась без стекол (207 окон затянуты пленкой). Также повреждения имеет кровля, находящаяся над спортивным залом.&amp;nbsp;&lt;a href="#"&gt;Читать далее&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;
+        &lt;p class="MsoNormal" style="margin-right: 14.15pt; line-height: 150%; text-align: justify;"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-br layout-item-2"&gt;
+&lt;/div&gt;&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-4" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-5" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-6" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-3" style="width: 100%" &gt;
+        &lt;h3 style="padding-bottom: 5px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(191, 191, 191); text-align: center;"&gt;&lt;span style="font-size: 22px; color: #0F3E57;"&gt;Восстановление детского социального центра г. Горловки&lt;/span&gt;&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 10px; padding-right: 5px; padding-bottom: 10px; padding-left: 0px;"&gt;&lt;div id="5d2dce85348a4473914ad22fc78de514" style="position: relative; display: inline-block; z-index: 0; margin-top: 10px; margin-right: 5px; margin-bottom: 10px; margin-left: 0px;  border-width: 0px;  float: left;" class="art-collage"&gt;
+&lt;div class="art-slider art-slidecontainer5d2dce85348a4473914ad22fc78de514"&gt;
+    &lt;div class="art-slider-inner"&gt;
+&lt;div class="art-slide-item art-slide5d2dce85348a4473914ad22fc78de5140"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide5d2dce85348a4473914ad22fc78de5141"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide5d2dce85348a4473914ad22fc78de5142"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide5d2dce85348a4473914ad22fc78de5143"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slide5d2dce85348a4473914ad22fc78de5144"&gt;
+
+&lt;/div&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-slidenavigator art-slidenavigator5d2dce85348a4473914ad22fc78de514"&gt;
+&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+
+    &lt;/div&gt;
+&lt;/div&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;span style="font-family: Arial; font-weight: bold; line-height: 14px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;span style="font-family: Arial; font-weight: bold; line-height: 14px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;span style="font-size: 10px;"&gt;&lt;b&gt;&lt;span style="line-height: 14px; font-family: Arial; font-size: 13px;"&gt;Детский социальный центр.&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style="font-weight: bold;"&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="text-align: left;"&gt;&lt;span style="line-height: 14px; font-family: Arial;"&gt;Cоздан администрацией города для детей в возрасте от трех до восем-надцати лет, которые оказа-лись в сложной жизненной ситуации или остались без попечения родителей или лиц их заменяющих...&amp;nbsp;&lt;/span&gt;&lt;a href="#"&gt;Читать далее&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-br layout-item-2"&gt;
+&lt;/div&gt;&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-4" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-5" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-6" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-3" style="width: 100%" &gt;
+        &lt;h3 style="padding-bottom: 5px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(191, 191, 191); text-align: center;"&gt;&lt;span style="font-size: 22px; color: #0F3E57;"&gt;Восстановление республиканского дома ребенка&lt;/span&gt;&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 10px; padding-right: 5px; padding-bottom: 10px; padding-left: 0px;"&gt;&lt;div id="a53ad4d8d38540e18e809647e586c5c9" style="position: relative; display: inline-block; z-index: 0; margin-top: 10px; margin-right: 5px; margin-bottom: 10px; margin-left: 0px;  border-width: 0px;  float: left;" class="art-collage"&gt;
+&lt;div class="art-slider art-slidecontainera53ad4d8d38540e18e809647e586c5c9"&gt;
+    &lt;div class="art-slider-inner"&gt;
+&lt;div class="art-slide-item art-slidea53ad4d8d38540e18e809647e586c5c90"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slidea53ad4d8d38540e18e809647e586c5c91"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slidea53ad4d8d38540e18e809647e586c5c92"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slidea53ad4d8d38540e18e809647e586c5c93"&gt;
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slidea53ad4d8d38540e18e809647e586c5c94"&gt;
+
+&lt;/div&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-slidenavigator art-slidenavigatora53ad4d8d38540e18e809647e586c5c9"&gt;
+&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+
+    &lt;/div&gt;
+&lt;/div&gt;
+        &lt;p&gt;&lt;span style="font-size: 10px;"&gt;&lt;b&gt;&lt;span style="line-height: 14px; font-family: Arial; font-size: 13px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span style="font-size: 10px;"&gt;&lt;b&gt;&lt;span style="line-height: 14px; font-family: Arial; font-size: 13px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="text-align: center;"&gt;&lt;span style="font-size: 10px;"&gt;&lt;b&gt;&lt;span style="line-height: 14px; font-family: Arial; font-size: 13px;"&gt;&amp;nbsp;Республиканский дом ребенка.&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;p style="text-align: left;"&gt;&lt;span style="line-height: 107%; font-family: Arial;"&gt;Республиканский специали-зированный дом ребенка функцио-нирует в Донецкой Народной Республике и в настоящее время насчитывает 47 воспитанников. Здесь находятся дети-сироты, дети...&lt;/span&gt;&lt;a href="#"&gt;Читать далее&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href="#"&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-br layout-item-2"&gt;
+&lt;/div&gt;&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-4" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-5" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-6" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-3" style="width: 100%" &gt;
+        &lt;h3 style="padding-bottom: 5px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(191, 191, 191); text-align: center;"&gt;&lt;span style="font-size: 22px; color: #0F3E57;"&gt;Восстановление республиканского дома&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="padding-top: 10px; padding-right: 5px; padding-bottom: 10px; padding-left: 0px;"&gt;&lt;img style="margin-top: 10px; margin-right: 5px; margin-bottom: 10px; margin-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; " width="215" height="145" alt="" class="art-lightbox" src="00b3e3ac-e1ae-4b0d-a580-ddfa743f9f76.png"&gt;&lt;/div&gt;
+        &lt;div class="image-caption-wrapper" style="padding-top: 10px; padding-bottom: 10px; float: left;"&gt;&lt;span style="font-weight: bold;"&gt;Hendrerit morbi turpis volutpat aptent in non adipiscing lacus&amp;nbsp;&lt;/span&gt;&lt;/div&gt;
+        &lt;p&gt;Augue suscipit ut arcu malesuada luctus arcu iaculis varius quam fringilla id tellus ultricies quis ac quis. Pede eget sit rutrum sed dolor fusce vitae ligula rutrum primis.tae &amp;nbsp;&amp;nbsp;&lt;a href="#"&gt;Читать далее&lt;/a&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;
+        &lt;p style="text-align: justify;"&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href="" class="art-button"&gt;1500/10000&lt;/a&gt;&amp;nbsp;&lt;a href="" class="art-button" target="_top"&gt;Оплатить&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-br layout-item-2"&gt;
+&lt;/div&gt;&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-4" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-5" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-6" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead>&lt;script&gt;jQuery(function($) {
+    'use strict';
+    if ($.fn.slider) {
+        $(".art-slidecontainer1fecfa313d0b489288584a27eb2c13d8").each(function () {
+            var slideContainer = $(this), tmp;
+            var inner = $(".art-slider-inner", slideContainer);
+            var helper = null;
+
+
+            inner.children().eq(0).addClass("active");
+            slideContainer.slider({
+                pause: 2600,
+                speed: 600,
+                repeat: true,
+                animation: "fade",
+                direction: "next",
+                navigator: slideContainer.siblings(".art-slidenavigator1fecfa313d0b489288584a27eb2c13d8"),
+                helper: helper
+                            });
+        });
+    }
+});
+jQuery(function($) {
+    'use strict';
+    if ($.fn.slider) {
+        $(".art-slidecontainer5d2dce85348a4473914ad22fc78de514").each(function () {
+            var slideContainer = $(this), tmp;
+            var inner = $(".art-slider-inner", slideContainer);
+            var helper = null;
+
+
+            inner.children().eq(0).addClass("active");
+            slideContainer.slider({
+                pause: 2600,
+                speed: 600,
+                repeat: true,
+                animation: "fade",
+                direction: "next",
+                navigator: slideContainer.siblings(".art-slidenavigator5d2dce85348a4473914ad22fc78de514"),
+                helper: helper
+                            });
+        });
+    }
+});
+jQuery(function($) {
+    'use strict';
+    if ($.fn.slider) {
+        $(".art-slidecontainera53ad4d8d38540e18e809647e586c5c9").each(function () {
+            var slideContainer = $(this), tmp;
+            var inner = $(".art-slider-inner", slideContainer);
+            var helper = null;
+
+
+            inner.children().eq(0).addClass("active");
+            slideContainer.slider({
+                pause: 2600,
+                speed: 600,
+                repeat: true,
+                animation: "fade",
+                direction: "next",
+                navigator: slideContainer.siblings(".art-slidenavigatora53ad4d8d38540e18e809647e586c5c9"),
+                helper: helper
+                            });
+        });
+    }
+});
+&lt;/script&gt;&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { margin-bottom: 10px;  }
+.art-content .art-postcontent-0 .layout-item-1 { border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#6CACE0;border-right-color:#6CACE0;border-bottom-color:#6CACE0;border-left-color:#6CACE0;  }
+.art-content .art-postcontent-0 .layout-item-2 { border-top-width:0px;border-top-style:solid;border-top-color:#6CACE0;  }
+.art-content .art-postcontent-0 .layout-item-3 { padding: 3px;  }
+.art-content .art-postcontent-0 .layout-item-4 { border-right-style:solid;border-right-width:1px;border-right-color:#6CACE0; padding-right: 10px;padding-left: 6px;  }
+.art-content .art-postcontent-0 .layout-item-5 { padding-right: 10px;padding-left: 10px;  }
+.art-content .art-postcontent-0 .layout-item-6 { border-right-style:solid;border-left-style:solid;border-right-width:1px;border-left-width:1px;border-right-color:#6CACE0;border-left-color:#6CACE0; padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+.art-slidecontainer1fecfa313d0b489288584a27eb2c13d8 {
+    position: relative;
+        width: 300px;
+    height: 203px;
+        }
+
+.art-slidecontainer1fecfa313d0b489288584a27eb2c13d8 .art-slide-item
+{
+
+}
+
+
+
+.art-slidecontainer1fecfa313d0b489288584a27eb2c13d8 .art-slide-item {
+    -webkit-transition: 600ms ease-in-out opacity;
+    -moz-transition: 600ms ease-in-out opacity;
+    -ms-transition: 600ms ease-in-out opacity;
+    -o-transition: 600ms ease-in-out opacity;
+    transition: 600ms ease-in-out opacity;
+    position: absolute;
+    display: none;
+	left: 0;
+	top: 0;
+	opacity: 0;
+    width:  100%;
+    height: 100%;
+}
+
+.art-slidecontainer1fecfa313d0b489288584a27eb2c13d8 .active, .art-slidecontainer1fecfa313d0b489288584a27eb2c13d8 .next, .art-slidecontainer1fecfa313d0b489288584a27eb2c13d8 .prev {
+    display: block;
+}
+
+.art-slidecontainer1fecfa313d0b489288584a27eb2c13d8 .active {
+    opacity: 1;
+}
+
+.art-slidecontainer1fecfa313d0b489288584a27eb2c13d8 .next, .art-slidecontainer1fecfa313d0b489288584a27eb2c13d8 .prev {
+    width: 100%;
+}
+
+.art-slidecontainer1fecfa313d0b489288584a27eb2c13d8 .next.forward, .art-slidecontainer1fecfa313d0b489288584a27eb2c13d8 .prev.back {
+    opacity: 1;
+}
+
+.art-slidecontainer1fecfa313d0b489288584a27eb2c13d8 .active.forward {
+    opacity: 0;
+}
+
+.art-slidecontainer1fecfa313d0b489288584a27eb2c13d8 .active.back {
+    opacity: 0;
+}
+
+
+.art-slide1fecfa313d0b489288584a27eb2c13d80 {
+    background-image:  url('images/slide1fecfa313d0b489288584a27eb2c13d80.jpg');
+    background-position:  0 0;
+    background-repeat: no-repeat;
+}
+.art-slide1fecfa313d0b489288584a27eb2c13d81 {
+    background-image:  url('images/slide1fecfa313d0b489288584a27eb2c13d81.jpg');
+    background-position:  0 0;
+    background-repeat: no-repeat;
+}
+.art-slide1fecfa313d0b489288584a27eb2c13d82 {
+    background-image:  url('images/slide1fecfa313d0b489288584a27eb2c13d82.jpg');
+    background-position:  0 0;
+    background-repeat: no-repeat;
+}
+.art-slide1fecfa313d0b489288584a27eb2c13d83 {
+    background-image:  url('images/slide1fecfa313d0b489288584a27eb2c13d83.jpg');
+    background-position:  0 0;
+    background-repeat: no-repeat;
+}
+.art-slide1fecfa313d0b489288584a27eb2c13d84 {
+    background-image:  url('images/slide1fecfa313d0b489288584a27eb2c13d84.jpg');
+    background-position:  0 0;
+    background-repeat: no-repeat;
+}
+
+
+.art-slidenavigator1fecfa313d0b489288584a27eb2c13d8 {
+  display: inline-block;
+  position: absolute;
+  direction: ltr !important;
+  top: 182px;
+  left: 70.33%;
+  z-index: 101;
+  line-height: 0 !important;
+  -webkit-background-origin: border !important;
+  -moz-background-origin: border !important;
+  background-origin: border-box !important;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  text-align: center;
+    white-space: nowrap;
+    }
+.art-slidenavigator1fecfa313d0b489288584a27eb2c13d8
+{
+background: #8A8792;background: transparent;background: transparent;background: transparent;background: transparent;background: transparent;background: transparent;-svg-background: transparent;
+
+
+
+padding:7px;
+
+
+
+
+
+}
+.art-slidenavigator1fecfa313d0b489288584a27eb2c13d8 &gt; a
+{
+background: #4E4B53;background: #4E4B53;background: #4E4B53;background: #4E4B53;background: #4E4B53;background: #4E4B53;background: #4E4B53;-svg-background: #4E4B53;
+-webkit-border-radius:20%;-moz-border-radius:20%;border-radius:20%;
+
+border:1px solid #625E68;
+
+margin:0 10px 0 0;
+
+width: 7px;
+
+height: 7px;
+}
+.art-slidenavigator1fecfa313d0b489288584a27eb2c13d8 &gt; a.active
+{
+background: #D8D9D8;background: #D8D9D8;background: #D8D9D8;background: #D8D9D8;background: #D8D9D8;background: #D8D9D8;background: #D8D9D8;-svg-background: #D8D9D8;
+-webkit-border-radius:20%;-moz-border-radius:20%;border-radius:20%;
+
+border:1px solid #9B9D9B;
+
+margin:0 10px 0 0;
+
+width: 7px;
+
+height: 7px;
+}
+.art-slidenavigator1fecfa313d0b489288584a27eb2c13d8 &gt; a:hover
+{
+background: #686A68;background: linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;background: -webkit-linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;background: -moz-linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;background: -o-linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;background: -ms-linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;background: linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;-svg-background: linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;
+-webkit-border-radius:20%;-moz-border-radius:20%;border-radius:20%;
+
+border:1px solid #818381;
+
+margin:0 10px 0 0;
+
+width: 7px;
+
+height: 7px;
+}
+
+.art-slidecontainer5d2dce85348a4473914ad22fc78de514 {
+    position: relative;
+        width: 230px;
+    height: 155px;
+        }
+
+.art-slidecontainer5d2dce85348a4473914ad22fc78de514 .art-slide-item
+{
+
+}
+
+
+
+.art-slidecontainer5d2dce85348a4473914ad22fc78de514 .art-slide-item {
+    -webkit-transition: 600ms ease-in-out opacity;
+    -moz-transition: 600ms ease-in-out opacity;
+    -ms-transition: 600ms ease-in-out opacity;
+    -o-transition: 600ms ease-in-out opacity;
+    transition: 600ms ease-in-out opacity;
+    position: absolute;
+    display: none;
+	left: 0;
+	top: 0;
+	opacity: 0;
+    width:  100%;
+    height: 100%;
+}
+
+.art-slidecontainer5d2dce85348a4473914ad22fc78de514 .active, .art-slidecontainer5d2dce85348a4473914ad22fc78de514 .next, .art-slidecontainer5d2dce85348a4473914ad22fc78de514 .prev {
+    display: block;
+}
+
+.art-slidecontainer5d2dce85348a4473914ad22fc78de514 .active {
+    opacity: 1;
+}
+
+.art-slidecontainer5d2dce85348a4473914ad22fc78de514 .next, .art-slidecontainer5d2dce85348a4473914ad22fc78de514 .prev {
+    width: 100%;
+}
+
+.art-slidecontainer5d2dce85348a4473914ad22fc78de514 .next.forward, .art-slidecontainer5d2dce85348a4473914ad22fc78de514 .prev.back {
+    opacity: 1;
+}
+
+.art-slidecontainer5d2dce85348a4473914ad22fc78de514 .active.forward {
+    opacity: 0;
+}
+
+.art-slidecontainer5d2dce85348a4473914ad22fc78de514 .active.back {
+    opacity: 0;
+}
+
+
+.art-slide5d2dce85348a4473914ad22fc78de5140 {
+    background-image:  url('images/slide5d2dce85348a4473914ad22fc78de5140.jpg');
+    background-position:  0 0;
+    background-repeat: no-repeat;
+}
+.art-slide5d2dce85348a4473914ad22fc78de5141 {
+    background-image:  url('images/slide5d2dce85348a4473914ad22fc78de5141.jpg');
+    background-position:  0 0;
+    background-repeat: no-repeat;
+}
+.art-slide5d2dce85348a4473914ad22fc78de5142 {
+    background-image:  url('images/slide5d2dce85348a4473914ad22fc78de5142.jpg');
+    background-position:  0 0;
+    background-repeat: no-repeat;
+}
+.art-slide5d2dce85348a4473914ad22fc78de5143 {
+    background-image:  url('images/slide5d2dce85348a4473914ad22fc78de5143.jpg');
+    background-position:  0 0;
+    background-repeat: no-repeat;
+}
+.art-slide5d2dce85348a4473914ad22fc78de5144 {
+    background-image:  url('images/slide5d2dce85348a4473914ad22fc78de5144.jpg');
+    background-position:  0 0;
+    background-repeat: no-repeat;
+}
+
+
+.art-slidenavigator5d2dce85348a4473914ad22fc78de514 {
+  display: inline-block;
+  position: absolute;
+  direction: ltr !important;
+  top: 134px;
+  left: 61.3%;
+  z-index: 101;
+  line-height: 0 !important;
+  -webkit-background-origin: border !important;
+  -moz-background-origin: border !important;
+  background-origin: border-box !important;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  text-align: center;
+    white-space: nowrap;
+    }
+.art-slidenavigator5d2dce85348a4473914ad22fc78de514
+{
+background: #8A8792;background: transparent;background: transparent;background: transparent;background: transparent;background: transparent;background: transparent;-svg-background: transparent;
+
+
+
+padding:7px;
+
+
+
+
+
+}
+.art-slidenavigator5d2dce85348a4473914ad22fc78de514 &gt; a
+{
+background: #4E4B53;background: #4E4B53;background: #4E4B53;background: #4E4B53;background: #4E4B53;background: #4E4B53;background: #4E4B53;-svg-background: #4E4B53;
+-webkit-border-radius:20%;-moz-border-radius:20%;border-radius:20%;
+
+border:1px solid #625E68;
+
+margin:0 10px 0 0;
+
+width: 7px;
+
+height: 7px;
+}
+.art-slidenavigator5d2dce85348a4473914ad22fc78de514 &gt; a.active
+{
+background: #D8D9D8;background: #D8D9D8;background: #D8D9D8;background: #D8D9D8;background: #D8D9D8;background: #D8D9D8;background: #D8D9D8;-svg-background: #D8D9D8;
+-webkit-border-radius:20%;-moz-border-radius:20%;border-radius:20%;
+
+border:1px solid #9B9D9B;
+
+margin:0 10px 0 0;
+
+width: 7px;
+
+height: 7px;
+}
+.art-slidenavigator5d2dce85348a4473914ad22fc78de514 &gt; a:hover
+{
+background: #686A68;background: linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;background: -webkit-linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;background: -moz-linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;background: -o-linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;background: -ms-linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;background: linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;-svg-background: linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;
+-webkit-border-radius:20%;-moz-border-radius:20%;border-radius:20%;
+
+border:1px solid #818381;
+
+margin:0 10px 0 0;
+
+width: 7px;
+
+height: 7px;
+}
+
+.art-slidecontainera53ad4d8d38540e18e809647e586c5c9 {
+    position: relative;
+        width: 230px;
+    height: 155px;
+        }
+
+.art-slidecontainera53ad4d8d38540e18e809647e586c5c9 .art-slide-item
+{
+
+}
+
+
+
+.art-slidecontainera53ad4d8d38540e18e809647e586c5c9 .art-slide-item {
+    -webkit-transition: 600ms ease-in-out opacity;
+    -moz-transition: 600ms ease-in-out opacity;
+    -ms-transition: 600ms ease-in-out opacity;
+    -o-transition: 600ms ease-in-out opacity;
+    transition: 600ms ease-in-out opacity;
+    position: absolute;
+    display: none;
+	left: 0;
+	top: 0;
+	opacity: 0;
+    width:  100%;
+    height: 100%;
+}
+
+.art-slidecontainera53ad4d8d38540e18e809647e586c5c9 .active, .art-slidecontainera53ad4d8d38540e18e809647e586c5c9 .next, .art-slidecontainera53ad4d8d38540e18e809647e586c5c9 .prev {
+    display: block;
+}
+
+.art-slidecontainera53ad4d8d38540e18e809647e586c5c9 .active {
+    opacity: 1;
+}
+
+.art-slidecontainera53ad4d8d38540e18e809647e586c5c9 .next, .art-slidecontainera53ad4d8d38540e18e809647e586c5c9 .prev {
+    width: 100%;
+}
+
+.art-slidecontainera53ad4d8d38540e18e809647e586c5c9 .next.forward, .art-slidecontainera53ad4d8d38540e18e809647e586c5c9 .prev.back {
+    opacity: 1;
+}
+
+.art-slidecontainera53ad4d8d38540e18e809647e586c5c9 .active.forward {
+    opacity: 0;
+}
+
+.art-slidecontainera53ad4d8d38540e18e809647e586c5c9 .active.back {
+    opacity: 0;
+}
+
+
+.art-slidea53ad4d8d38540e18e809647e586c5c90 {
+    background-image:  url('images/slidea53ad4d8d38540e18e809647e586c5c90.jpg');
+    background-position:  0 0;
+    background-repeat: no-repeat;
+}
+.art-slidea53ad4d8d38540e18e809647e586c5c91 {
+    background-image:  url('images/slidea53ad4d8d38540e18e809647e586c5c91.jpg');
+    background-position:  0 0;
+    background-repeat: no-repeat;
+}
+.art-slidea53ad4d8d38540e18e809647e586c5c92 {
+    background-image:  url('images/slidea53ad4d8d38540e18e809647e586c5c92.jpg');
+    background-position:  0 0;
+    background-repeat: no-repeat;
+}
+.art-slidea53ad4d8d38540e18e809647e586c5c93 {
+    background-image:  url('images/slidea53ad4d8d38540e18e809647e586c5c93.jpg');
+    background-position:  0 0;
+    background-repeat: no-repeat;
+}
+.art-slidea53ad4d8d38540e18e809647e586c5c94 {
+    background-image:  url('images/slidea53ad4d8d38540e18e809647e586c5c94.jpg');
+    background-position:  0 0;
+    background-repeat: no-repeat;
+}
+
+
+.art-slidenavigatora53ad4d8d38540e18e809647e586c5c9 {
+  display: inline-block;
+  position: absolute;
+  direction: ltr !important;
+  top: 134px;
+  left: 61.3%;
+  z-index: 101;
+  line-height: 0 !important;
+  -webkit-background-origin: border !important;
+  -moz-background-origin: border !important;
+  background-origin: border-box !important;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  text-align: center;
+    white-space: nowrap;
+    }
+.art-slidenavigatora53ad4d8d38540e18e809647e586c5c9
+{
+background: #8A8792;background: transparent;background: transparent;background: transparent;background: transparent;background: transparent;background: transparent;-svg-background: transparent;
+
+
+
+padding:7px;
+
+
+
+
+
+}
+.art-slidenavigatora53ad4d8d38540e18e809647e586c5c9 &gt; a
+{
+background: #4E4B53;background: #4E4B53;background: #4E4B53;background: #4E4B53;background: #4E4B53;background: #4E4B53;background: #4E4B53;-svg-background: #4E4B53;
+-webkit-border-radius:20%;-moz-border-radius:20%;border-radius:20%;
+
+border:1px solid #625E68;
+
+margin:0 10px 0 0;
+
+width: 7px;
+
+height: 7px;
+}
+.art-slidenavigatora53ad4d8d38540e18e809647e586c5c9 &gt; a.active
+{
+background: #D8D9D8;background: #D8D9D8;background: #D8D9D8;background: #D8D9D8;background: #D8D9D8;background: #D8D9D8;background: #D8D9D8;-svg-background: #D8D9D8;
+-webkit-border-radius:20%;-moz-border-radius:20%;border-radius:20%;
+
+border:1px solid #9B9D9B;
+
+margin:0 10px 0 0;
+
+width: 7px;
+
+height: 7px;
+}
+.art-slidenavigatora53ad4d8d38540e18e809647e586c5c9 &gt; a:hover
+{
+background: #686A68;background: linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;background: -webkit-linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;background: -moz-linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;background: -o-linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;background: -ms-linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;background: linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;-svg-background: linear-gradient(top, #868886 0, #7E817E 19%, #727472 50%, #565856 50%, #686A68 100%) no-repeat;
+-webkit-border-radius:20%;-moz-border-radius:20%;border-radius:20%;
+
+border:1px solid #818381;
+
+margin:0 10px 0 0;
+
+width: 7px;
+
+height: 7px;
+}
+
+&lt;/style&gt;</pageHead>
+   <pages>
+    <page author="" caption="Subpage 1" dateModified="07/13/2012 13:26:17" description="" keywords="" metaTags="" name="new-page" path="/главная/new-page" showInHmenu="True" showInVmenu="True" showTitle="True" title="Subpage 1" titleInBrowser="Subpage 1">
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <layout>
+      <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+      <contents>
+       <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+      </contents>
+     </layout>
+     <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+    </page>
+    <page author="" caption="Subpage 2" dateModified="07/13/2012 13:26:24" description="" keywords="" metaTags="" name="new-page-2" path="/главная/new-page-2" showInHmenu="True" showInVmenu="True" showTitle="True" title="Subpage 2" titleInBrowser="Subpage 2">
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <layout>
+      <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+      <contents>
+       <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+      </contents>
+     </layout>
+     <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+    </page>
+    <page author="" caption="Subpage 3" dateModified="07/13/2012 13:26:28" description="" keywords="" metaTags="" name="new-page-3" path="/главная/new-page-3" showInHmenu="True" showInVmenu="True" showTitle="True" title="Subpage 3" titleInBrowser="Subpage 3">
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <layout>
+      <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+      <contents>
+       <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+      </contents>
+     </layout>
+     <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+    </page>
+   </pages>
+  </page>
+  <page author="" caption="Новости" dateModified="08/19/2015 17:40:26" description="" keywords="" metaTags="" name="новости" path="/новости" posts_page="true" showInHmenu="True" showInVmenu="True" showTitle="False" title="Blog Page" titleInBrowser="Blog Page">
+   <content>&lt;div class="art-content-layout-wrapper post-layout-item-0"&gt;
+&lt;div class="art-content-layout post-layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell post-layout-item-2" style="width: 100%" &gt;
+        &lt;article class="art-post art-article"&gt;
+                                        &lt;div class="art-postmetadataheader"&gt;
+                                                &lt;h2 class="art-postheader"&gt;&lt;a href="#"&gt;Conse ctetur&lt;/a&gt;
+                                                &lt;/h2&gt;
+                                                                    &lt;div class="art-postheadericons art-metadata-icons"&gt;
+                                &lt;span class="art-postdateicon"&gt;&lt;/span&gt;
+                                 | &lt;span class="art-postauthoricon"&gt; &lt;a href="#" title="Posts by Admin"&gt;Admin&lt;/a&gt;&lt;/span&gt;
+                                 | &lt;span class="art-postpdficon"&gt;&lt;/span&gt;
+                                 | &lt;span class="art-postemailicon"&gt;&lt;/span&gt;
+                                                    &lt;/div&gt;
+                                            &lt;/div&gt;
+                                        &lt;div class="art-postcontent art-postcontent-0 clearfix" &gt;
+        &lt;div class="art-content-layout"&gt;
+        &lt;div class="art-content-layout-row"&gt;
+        &lt;div class="art-layout-cell layout-item-0" style="width: 100%"&gt;
+        &lt;h3&gt;Introduction&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="width: 60%; float: left"&gt;&lt;img src="./images/0ce4a.jpg" style="width: 100%; max-width:600px" alt="an image" class="art-lightbox"&gt;
+        &lt;p&gt;Image by Flickr/cfourcalvin&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;p&gt;Lacus nascetur aliquam tortor faucibus eu in iaculis non quis maecenas sagittis posuere pede turpis metus. Nam arcu sed quam proin ipsum.&lt;/p&gt;
+        &lt;ol&gt;
+        &lt;li&gt;&lt;a href="#"&gt;Egestas a nec eget sit. Nec consectetuer et aenean sagittis enim vehicula praesent integer commodo.&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#"&gt;A suspendisse maecenas. tristique nec elementum pellentesque non interdum ut vestibulum sed a mi.&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#"&gt;Quis nunc lacinia enim.&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;&lt;br /&gt;&lt;a href="#"&gt;Далее...&lt;/a&gt;
+                        &lt;/div&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper post-layout-item-3"&gt;
+&lt;div class="art-content-layout post-layout-item-4"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell post-layout-item-2" style="width: 100%" &gt;
+        &lt;article class="art-post art-article"&gt;
+                                        &lt;div class="art-postmetadataheader"&gt;
+                                                &lt;h2 class="art-postheader"&gt;&lt;a href="#"&gt;Lorem ipsum&lt;/a&gt;
+                                                &lt;/h2&gt;
+                                                                    &lt;div class="art-postheadericons art-metadata-icons"&gt;
+                                &lt;span class="art-postdateicon"&gt;&lt;/span&gt;
+                                 | &lt;span class="art-postauthoricon"&gt; &lt;a href="#" title="Posts by Admin"&gt;Admin&lt;/a&gt;&lt;/span&gt;
+                                 | &lt;span class="art-postpdficon"&gt;&lt;/span&gt;
+                                 | &lt;span class="art-postemailicon"&gt;&lt;/span&gt;
+                                                    &lt;/div&gt;
+                                            &lt;/div&gt;
+                                        &lt;div class="art-postcontent art-postcontent-1 clearfix" &gt;
+        &lt;div class="art-content-layout"&gt;
+        &lt;div class="art-content-layout-row"&gt;
+        &lt;div class="art-layout-cell layout-item-0" style="width: 100%"&gt;
+        &lt;div class="image-caption-wrapper" style="width: 55%; float: left"&gt;&lt;img alt="an-image" style="width: 100%" class="art-lightbox" src="./images/shutterstock_62287657-01-3.jpg"&gt;&lt;/div&gt;
+        &lt;h1&gt;Heading 1&lt;/h1&gt;
+        &lt;h2&gt;Heading 2&lt;/h2&gt;
+        &lt;h3&gt;Heading 3&lt;/h3&gt;
+        &lt;h4&gt;Heading 4&lt;/h4&gt;
+        &lt;h5&gt;Heading 5&lt;/h5&gt;
+        &lt;h6&gt;Heading 6&lt;/h6&gt;
+        &lt;p&gt;Lorem dolor&amp;nbsp;amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;&lt;br /&gt;&lt;a href="#"&gt;Далее...&lt;/a&gt;
+                        &lt;/div&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout-wrapper post-layout-item-0"&gt;
+&lt;div class="art-content-layout post-layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell post-layout-item-2" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper post-layout-item-3"&gt;
+&lt;div class="art-content-layout post-layout-item-4"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell post-layout-item-2" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-3"&gt;
+&lt;div class="art-content-layout layout-item-4"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-3"&gt;
+&lt;div class="art-content-layout layout-item-4"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding: 0px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }.art-content .art-postcontent-1 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }.art-content .post-layout-item-0 { margin-top: 10px;margin-right: 10px;margin-bottom: 10px;margin-left: 10px;  }
+.art-content .post-layout-item-1 { border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-color:#6CACE0;border-right-color:#6CACE0;border-bottom-color:#6CACE0;border-left-color:#6CACE0; border-spacing: 0px 10px; border-collapse: separate; border-radius: 0px;  }
+.art-content .post-layout-item-2 { padding-right: 10px;padding-left: 10px;  }
+.art-content .post-layout-item-3 { margin-right: 10px;margin-bottom: 10px;margin-left: 10px;  }
+.art-content .post-layout-item-4 { border-radius: 0px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+  </page>
+  <page author="" caption="Предложить" dateModified="09/26/2015 13:54:47" description="" keywords="" metaTags="" name="предложить" path="/предложить" showInHmenu="True" showInVmenu="True" showTitle="False" title="Новая страница" titleInBrowser="Новая страница">
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;h3 style="border-bottom: 1px solid #BFBFBF; padding-bottom: 5px"&gt;Hello!&lt;input type="text"&gt;&lt;/h3&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;div class="image-caption-wrapper" style="width: 60%; float: left"&gt;&lt;img src="./images/7f02d.jpg" style="width: 100%; max-width: 450px; " alt="an image" class="art-lightbox"&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-br layout-item-0"&gt;
+&lt;/div&gt;&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;h3 style="border-bottom: 1px solid #BFBFBF; padding-bottom: 5px"&gt;About&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="width: 60%; float: left"&gt;&lt;img src="./images/bbe8e.jpg" style="width: 100%; max-width:600px" alt="an image" class="art-lightbox"&gt;
+        &lt;p&gt;Image by Flickr/Ishrona&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;span style="font-style: italic;"&gt;Donec nunc rutrum tempor nulla id magna neque posuere nec in lacus ac. Posuere ultricies ligula quam sed posuere neque pulvinar vestibulum accumsan sed.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;Dolor sed non eget consectetuer volutpat ante feugiat. Adipiscing venenatis primis nunc mi libero eros in. A class leo leo nec. Fringilla phasellus nec vestibulum varius nisl tempus proin. Mi curabitur enim. Eleifend nec pede torquent felis congue purus volutpat donec vel ut. Phasellus at laoreet ac congue pellentesque. Nec metus praesent felis quis diam consectetuer. Per ligula lectus hendrerit vitae neque diam in dui. Suscipit eget id. Adipiscing sapien eu nam velit justo nec. Leo elit congue nulla euismod mauris hac odio elit pellentesque a eu. Pede adipiscing felis posuere mauris lacus suspendisse.&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#"&gt;Еще&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-br layout-item-0"&gt;
+&lt;/div&gt;&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;h3 style="border-bottom: 1px solid #BFBFBF; padding-bottom: 5px"&gt;Hello!&lt;input type="text"&gt;&lt;/h3&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;div class="image-caption-wrapper" style="width: 60%; float: left"&gt;&lt;img src="7f02d.jpg" style="width: 100%; max-width: 450px; " alt="an image" class="art-lightbox"&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-br layout-item-0"&gt;
+&lt;/div&gt;&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;h3 style="border-bottom: 1px solid #BFBFBF; padding-bottom: 5px"&gt;About&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="width: 60%; float: left"&gt;&lt;img src="bbe8e.jpg" style="width: 100%; max-width:600px" alt="an image" class="art-lightbox"&gt;
+        &lt;p&gt;Image by Flickr/Ishrona&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;span style="font-style: italic;"&gt;Donec nunc rutrum tempor nulla id magna neque posuere nec in lacus ac. Posuere ultricies ligula quam sed posuere neque pulvinar vestibulum accumsan sed.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;Dolor sed non eget consectetuer volutpat ante feugiat. Adipiscing venenatis primis nunc mi libero eros in. A class leo leo nec. Fringilla phasellus nec vestibulum varius nisl tempus proin. Mi curabitur enim. Eleifend nec pede torquent felis congue purus volutpat donec vel ut. Phasellus at laoreet ac congue pellentesque. Nec metus praesent felis quis diam consectetuer. Per ligula lectus hendrerit vitae neque diam in dui. Suscipit eget id. Adipiscing sapien eu nam velit justo nec. Leo elit congue nulla euismod mauris hac odio elit pellentesque a eu. Pede adipiscing felis posuere mauris lacus suspendisse.&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#"&gt;Еще&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-br layout-item-0"&gt;
+&lt;/div&gt;&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { border-top-width:1px;border-top-style:solid;border-top-color:#6CACE0;margin-top: 10px;margin-bottom: 10px;  }
+.art-content .art-postcontent-0 .layout-item-1 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+  </page>
+  <page author="" caption="Просьба" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="просьба" path="/просьба" showInHmenu="True" showInVmenu="True" showTitle="True" title="Новая страница" titleInBrowser="Новая страница">
+   <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+   <pageHead></pageHead>
+  </page>
+  <page author="" caption="Отчеты" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="отчеты" path="/отчеты" showInHmenu="True" showInVmenu="True" showTitle="True" title="Новая страница 2" titleInBrowser="Новая страница 2">
+   <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+   <pageHead></pageHead>
+  </page>
+  <page author="" caption="О нас" dateModified="11/03/2015 17:41:29" description="" keywords="" metaTags="" name="о-нас" path="/о-нас" showInHmenu="True" showInVmenu="True" showTitle="True" title="Наше руководство:" titleInBrowser="Наше руководство:">
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p class="MsoNormal" style="line-height: normal; text-align: center;"&gt;&lt;span style="font-family: 'Times New Roman', serif; font-size: 22px;"&gt;&amp;nbsp;&lt;/span&gt; &lt;span style="font-family: 'Times New Roman', serif; font-size: 18px;"&gt;&amp;nbsp;&lt;span style="font-weight: bold;"&gt;Вакалюк Николай Степанович (1971 г.)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p class="MsoNormal" style="line-height: normal; text-align: center;"&gt;&lt;span style="font-family: 'Times New Roman', serif; font-size: 18px;"&gt;Председатель попечительского совета НКОБФ «Взрослое детство».&lt;/span&gt;&lt;/p&gt;
+        &lt;h3&gt;&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 10px; padding-right: 10px; padding-bottom: 4px; padding-left: 4px;"&gt;&lt;img style="float: left; margin-top: 10px; margin-right: 10px; margin-bottom: 4px; margin-left: 4px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(108, 172, 224); border-right-color: rgb(108, 172, 224); border-bottom-color: rgb(108, 172, 224); border-left-color: rgb(108, 172, 224); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;" width="140" height="140" alt="" class="art-lightbox" src="./images/a9ab2000-b3e8-43c6-8044-80b207488371.png"&gt;&lt;/div&gt;
+        &lt;p class="MsoNormal" style="text-align: justify; text-indent: 1cm; line-height: normal;"&gt;&lt;span style="font-size: 16px; font-family: 'Times New Roman';"&gt;Я родился и живу в г. Горловка, Донецкой обл. Сам воспитываю дочь. С самого начала войны на Донбассе я не покидал свой дом, свой город. Горловка, как и многие города Донецкой и Луганской обл., подвергалась и подвергается мощным обстрелам со стороны ВСУ. Есть разрушенные дома, сады, школы, интернаты. Я сильно переживаю и с болью смотрю на детей, которые видят всё это в их маленьком возрасте. Их детство на этом закончилось. Мы решили создать благотворительный фонд помощи детям Донбасса и всячески, любыми усилиями, помогать детям: детским больницам, инвалидам, ВИЧ-инфицированным, детским садам, школам, интернатам, сиротам, домам малютки и т.д. Только совместными усилиями мы облегчим жизнь малышам. Чужих детей не бывает. У нас имеются проекты. Мы сами выезжаем и встречаемся с людьми, бываем на объектах, оценивая, какая помощь нужна каждому. Ценой нашего внимания и доброты мы сможем подарить им тепло и улыбку.&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-1" style="width: 50%" &gt;
+        &lt;p class="MsoNormal" style="line-height: normal; text-align: center;"&gt;&lt;span style="font-size: 18px;"&gt;&lt;span style="font-family: 'Times New Roman', serif;"&gt;&amp;nbsp;&lt;/span&gt; &lt;span style="font-family: 'Times New Roman', serif;"&gt;&amp;nbsp;&lt;span style="font-weight: bold;"&gt;Аванесян Феликс Грантович (1979 г.)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p class="MsoNormal" style="line-height: normal; text-align: center;"&gt;&lt;span style="font-family: 'Times New Roman', serif; font-size: 18px;"&gt;Учредитель и Президент НКОБФ&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+        &lt;p class="MsoNormal" style="line-height: normal; text-align: center;"&gt;&lt;span style="font-family: 'Times New Roman', serif; font-size: 18px;"&gt;«Взрослое детство».&lt;/span&gt;&lt;/p&gt;
+        &lt;h3&gt;&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-right: 10px;"&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 0px; padding-right: 2px; padding-bottom: 0px; padding-left: 0px;"&gt;&lt;img style="float: left; margin-top: 0px; margin-right: 2px; margin-bottom: 0px; margin-left: 0px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(108, 172, 224); border-right-color: rgb(108, 172, 224); border-bottom-color: rgb(108, 172, 224); border-left-color: rgb(108, 172, 224); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;" width="140" height="140" alt="" class="art-lightbox" src="./images/23c7fa46-1ca9-4f62-98ad-b81d19ea7434.png"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;p class="MsoNormal" style="margin-bottom: 0.0001pt; text-indent: 1cm; line-height: normal; text-align: justify;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&lt;span style="font-size: 16px;"&gt;Родом я из г. Баку. Сам по национальности армянин. Когда мне было девять лет, я вместе с семьёй стали беженцами из-за Нагорно-Карабахского конфликта. Война забрала у меня отца и многих близких, родствен-ников. В 1989 году мы бежали в Донецк, тогда ещё Украину. К огромному сожалению, спустя несколько лет, в Донбассе события Карабаха повторились. Началась война на Юго-Востоке. В ходе всех этих событий, военных действий, я вижу насколько нужна помощь мирным жителям Донбасса, а особенно детям, которые так же, как и я, в своё время, потеряли многое, в том числе – детство…&lt;/span&gt;&lt;span style="font-size: 16px;"&gt;Мы решили открыть благотворительный фонд и помогать детям Донбасса, участвовать в их жизни. Добрых людей много, мы верим в это. И вместе мы поможем, мы сделаем пусть самую малость, но поселим в их маленькие сердца надежду…&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-1" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p class="MsoNormal" style="line-height: normal; text-align: center;"&gt;&lt;span style="font-family: 'Times New Roman', serif; font-size: 22px;"&gt;&amp;nbsp;&lt;/span&gt; &lt;span style="font-family: 'Times New Roman', serif; font-size: 18px;"&gt;&amp;nbsp;&lt;span style="font-weight: bold;"&gt;Вакалюк Николай Степанович (1971 г.)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p class="MsoNormal" style="line-height: normal; text-align: center;"&gt;&lt;span style="font-family: 'Times New Roman', serif; font-size: 18px;"&gt;Председатель попечительского совета НКОБФ «Взрослое детство».&lt;/span&gt;&lt;/p&gt;
+        &lt;h3&gt;&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 10px; padding-right: 10px; padding-bottom: 4px; padding-left: 4px;"&gt;&lt;img style="float: left; margin-top: 10px; margin-right: 10px; margin-bottom: 4px; margin-left: 4px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(108, 172, 224); border-right-color: rgb(108, 172, 224); border-bottom-color: rgb(108, 172, 224); border-left-color: rgb(108, 172, 224); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;" width="140" height="140" alt="" class="art-lightbox" src="a9ab2000-b3e8-43c6-8044-80b207488371.png"&gt;&lt;/div&gt;
+        &lt;p class="MsoNormal" style="text-align: justify; text-indent: 1cm; line-height: normal;"&gt;&lt;span style="font-size: 16px; font-family: 'Times New Roman';"&gt;Я родился и живу в г. Горловка, Донецкой обл. Сам воспитываю дочь. С самого начала войны на Донбассе я не покидал свой дом, свой город. Горловка, как и многие города Донецкой и Луганской обл., подвергалась и подвергается мощным обстрелам со стороны ВСУ. Есть разрушенные дома, сады, школы, интернаты. Я сильно переживаю и с болью смотрю на детей, которые видят всё это в их маленьком возрасте. Их детство на этом закончилось. Мы решили создать благотворительный фонд помощи детям Донбасса и всячески, любыми усилиями, помогать детям: детским больницам, инвалидам, ВИЧ-инфицированным, детским садам, школам, интернатам, сиротам, домам малютки и т.д. Только совместными усилиями мы облегчим жизнь малышам. Чужих детей не бывает. У нас имеются проекты. Мы сами выезжаем и встречаемся с людьми, бываем на объектах, оценивая, какая помощь нужна каждому. Ценой нашего внимания и доброты мы сможем подарить им тепло и улыбку.&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-1" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p class="MsoNormal" style="line-height: normal; text-align: center;"&gt;&lt;span style="font-size: 18px;"&gt;&lt;span style="font-family: 'Times New Roman', serif;"&gt;&amp;nbsp;&lt;/span&gt; &lt;span style="font-family: 'Times New Roman', serif;"&gt;&amp;nbsp;&lt;span style="font-weight: bold;"&gt;Аванесян Феликс Грантович (1979 г.)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p class="MsoNormal" style="line-height: normal; text-align: center;"&gt;&lt;span style="font-family: 'Times New Roman', serif; font-size: 18px;"&gt;Учредитель и Президент НКОБФ&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+        &lt;p class="MsoNormal" style="line-height: normal; text-align: center;"&gt;&lt;span style="font-family: 'Times New Roman', serif; font-size: 18px;"&gt;«Взрослое детство».&lt;/span&gt;&lt;/p&gt;
+        &lt;h3&gt;&lt;/h3&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-right: 10px;"&gt;
+        &lt;div class="image-caption-wrapper" style="float: left; padding-top: 0px; padding-right: 2px; padding-bottom: 0px; padding-left: 0px;"&gt;&lt;img style="float: left; margin-top: 0px; margin-right: 2px; margin-bottom: 0px; margin-left: 0px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(108, 172, 224); border-right-color: rgb(108, 172, 224); border-bottom-color: rgb(108, 172, 224); border-left-color: rgb(108, 172, 224); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;" width="140" height="140" alt="" class="art-lightbox" src="23c7fa46-1ca9-4f62-98ad-b81d19ea7434.png"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;p class="MsoNormal" style="margin-bottom: 0.0001pt; text-indent: 1cm; line-height: normal; text-align: justify;"&gt;&lt;span style="font-family: 'Times New Roman';"&gt;&lt;span style="font-size: 16px;"&gt;Родом я из г. Баку. Сам по национальности армянин. Когда мне было девять лет, я вместе с семьёй стали беженцами из-за Нагорно-Карабахского конфликта. Война забрала у меня отца и многих близких, родствен-ников. В 1989 году мы бежали в Донецк, тогда ещё Украину. К огромному сожалению, спустя несколько лет, в Донбассе события Карабаха повторились. Началась война на Юго-Востоке. В ходе всех этих событий, военных действий, я вижу насколько нужна помощь мирным жителям Донбасса, а особенно детям, которые так же, как и я, в своё время, потеряли многое, в том числе – детство…&lt;/span&gt;&lt;span style="font-size: 16px;"&gt;Мы решили открыть благотворительный фонд и помогать детям Донбасса, участвовать в их жизни. Добрых людей много, мы верим в это. И вместе мы поможем, мы сделаем пусть самую малость, но поселим в их маленькие сердца надежду…&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-1" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { border-bottom-style:solid;border-bottom-width:1px;border-bottom-color:#6CACE0; padding-right: 17px;padding-left: 10px;  }
+.art-content .art-postcontent-0 .layout-item-1 { border-bottom-style:solid;border-bottom-width:1px;border-bottom-color:#6CACE0; padding-right: 10px;padding-left: 17px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+  </page>
+  <page author="" caption="Контакты" dateModified="08/19/2015 16:17:36" description="" keywords="" metaTags="" name="контакты" path="/контакты" showInHmenu="True" showInVmenu="True" showTitle="True" title="Новая страница 3" titleInBrowser="Новая страница 3">
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </contents>
+   </layout>
+   <pageHead></pageHead>
+  </page>
+ </pages>
+ <sidebars>
+  <sidebar caption="" name="sidebar1">
+   <block name="text" position="0" title="Фото">
+    <content>&lt;p&gt;&lt;img width="172" height="117" alt="" class="art-lightbox" src="shutterstock_11189998.jpg"&gt;&lt;/p&gt;</content>
+    <pageHead></pageHead>
+   </block>
+   <block name="text-4" position="1" title="Видео">
+    <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <pageHead></pageHead>
+   </block>
+   <block name="text-2" position="2" title="Календарь">
+    <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <pageHead></pageHead>
+   </block>
+   <block name="text-3" position="3" title="Новости">
+    <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <pageHead></pageHead>
+   </block>
+  </sidebar>
+  <sidebar caption="" name="content-before" />
+  <sidebar caption="" name="content-after" />
+ </sidebars>
+</site>
